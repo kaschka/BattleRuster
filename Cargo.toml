@@ -1,0 +1,8 @@
+[package]
+name = "battle-ruster"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.20.1", featues = ["macros"] }
+serenity = "0.11"
